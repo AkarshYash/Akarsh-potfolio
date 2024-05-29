@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="81" viewBox="0 0 92 81">
+  <!-- Envelope body -->
+  <path d="M0 20h92v41H0z" fill="#fff"/>
+  <!-- Flap -->
+  <path d="M0 20l46 29 46-29V8H0z" fill="#f2f2f2"/>
+  <!-- Seal -->
+  <circle cx="46" cy="71" r="4" fill="#f00"/>
+</svg>
